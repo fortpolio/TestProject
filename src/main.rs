@@ -2,7 +2,7 @@ pub mod util
 {
 	pub fn always_true() -> bool
 	{
-		true
+		true 
 	}
 }
 
